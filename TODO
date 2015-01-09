@@ -12,3 +12,5 @@ All code must be asynchronous and modular. No exceptions.
   + test all http methods on active page
     - return status codes for each method
   + log keys of designated form
+
+- Create a module loading engine
