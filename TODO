@@ -1,0 +1,14 @@
+All code must be asynchronous and modular. No exceptions.
+
+- Create an error handling engine
+  + each "module" throws an error to the main engine
+
+- Establish an appropriate GUI design
+
+- Functions needed/ideas
+  + parse url
+  + parse cookies
+  + get http headers
+  + test all http methods on active page
+    - return status codes for each method
+  + log keys of designated form

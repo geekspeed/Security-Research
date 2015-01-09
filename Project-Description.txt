@@ -1,0 +1,8 @@
+This project's current intention is to boot a GUI through greasemonkey 
+when activated for the current page being viewed. This visual overlay 
+will cover the entirety of the page and present small sets of sigificant 
+data such as all applicable cookies, headers, HTTP methods and status 
+codes.
+
+It will assort this (and more, as expounded upon) data and present it in 
+a professional manner. This document must be printable for business use.
